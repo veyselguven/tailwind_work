@@ -21,6 +21,9 @@ module.exports = {
         "gega-grey": "#DDDDDD",
         "gega-white": "#FZFZFZ",
       },
+      spacing: {
+        128: "32rem",
+      },
     },
   },
   plugins: [],
